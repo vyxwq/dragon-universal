@@ -24,4 +24,4 @@ On development
 To use Dragon Universal, just run the following code in your exploit.
 
 ```lua
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/wantedddg/Dragon-Universal/refs/heads/main/Main.lua"))()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/vyxwq/dragon-universal/refs/heads/main/main.lua"))()
