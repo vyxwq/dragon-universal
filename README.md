@@ -5,7 +5,7 @@ https://create.roblox.com/docs/resources/weapons-kit
 
 ## Status
 
-On development
+Working
 
 ## Latest Release
 
