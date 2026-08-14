@@ -7,9 +7,11 @@ https://create.roblox.com/docs/resources/weapons-kit
 
 On development
 
-## Releases
+## Latest Release
 
---> Latest V0.1
+V0.2
+- Optimized Aimbot & Silentaim
+- Added config
 
 ## Features
 
