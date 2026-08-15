@@ -12,6 +12,9 @@ Working
 V0.2
 - Optimized Aimbot & Silentaim
 - Added config
+- Added movement tab
+- Added bunny hop
+- Added anti aim methods
 
 ## Features
 
@@ -19,6 +22,8 @@ V0.2
 - Silent Aim
 - FOV
 - ESP
+- Bunny Hop
+- Anti Aim
 - & More in the future
 
 ## Script
